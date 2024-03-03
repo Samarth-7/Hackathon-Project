@@ -1,0 +1,54 @@
+20:19:15.459 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+20:19:15.489 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+20:19:15.490 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet2.xml'
+20:19:15.491 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet3.xml'
+20:19:15.502 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+20:19:15.506 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+20:19:15.509 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+20:19:15.510 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+20:19:15.513 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+20:19:15.514 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+20:19:15.515 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+20:19:15.519 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+20:19:15.520 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet2.xml'
+20:19:15.520 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet3.xml'
+20:19:15.523 [main] INFO  TestBase.TestNGBaseClass - Successfully entered data into the excel
+20:19:29.523 [main] INFO  TestBase.TestNGBaseClass - Sucessfully clicked on Coursera for Campus
+20:19:37.482 [main] INFO  TestBase.TestNGBaseClass - Selected Institute Type
+20:19:38.814 [main] INFO  TestBase.TestNGBaseClass - Selected Job Role
+20:19:39.503 [main] INFO  TestBase.TestNGBaseClass - Selected Department
+20:19:40.137 [main] INFO  TestBase.TestNGBaseClass - Selected Need
+20:19:42.014 [main] INFO  TestBase.TestNGBaseClass - Selected Number Of Learners
+20:19:42.909 [main] INFO  TestBase.TestNGBaseClass - Sucessfully Selected Country
+20:19:43.501 [main] INFO  TestBase.TestNGBaseClass - Sucessfully Selected State
+20:19:43.963 [main] INFO  TestBase.TestNGBaseClass - Sucessfully Clicked on Submit Button
+20:19:44.678 [main] INFO  TestBase.TestNGBaseClass - got the Error Msg
+20:27:04.411 [main] INFO  TestBase.CucumberBaseClass - ****** Starting Search Course ******
+20:27:16.657 [main] INFO  TestBase.CucumberBaseClass - Search operation Sucessfull
+20:27:28.108 [main] INFO  TestBase.CucumberBaseClass - Printed all List of Language
+20:27:30.674 [main] INFO  TestBase.CucumberBaseClass - Printed all List of Levels
+20:27:34.783 [main] INFO  TestBase.CucumberBaseClass - Slected Language
+20:27:36.807 [main] INFO  TestBase.CucumberBaseClass - Slected Level
+20:27:39.498 [main] INFO  TestBase.CucumberBaseClass - Printed the Course name, rating & duration
+20:27:42.370 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save core properties part
+20:27:42.371 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+20:27:42.686 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+20:27:42.702 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+20:27:42.713 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+20:27:42.727 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+20:27:42.729 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+20:27:42.730 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+20:27:42.733 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+20:27:42.734 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet2.xml'
+20:27:42.734 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet3.xml'
+20:27:42.740 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+20:27:42.742 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+20:27:42.746 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+20:27:42.747 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+20:27:42.749 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+20:27:42.750 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+20:27:42.751 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+20:27:42.754 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+20:27:42.755 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet2.xml'
+20:27:42.755 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet3.xml'
+20:27:42.759 [main] INFO  TestBase.CucumberBaseClass - Successfully entered data into the excel

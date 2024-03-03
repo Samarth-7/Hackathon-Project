@@ -1,0 +1,12 @@
+20:27:52.243 [main] INFO  TestBase.CucumberBaseClass - Successfully clicked on for Enterprise
+20:27:56.253 [main] INFO  TestBase.CucumberBaseClass - Successfully clicked on solution
+20:28:04.781 [main] INFO  TestBase.CucumberBaseClass - Successfully clicked on COurses for campus
+20:28:05.335 [main] INFO  TestBase.CucumberBaseClass - ****** Starting Form Filling ******
+20:28:06.489 [main] INFO  TestBase.CucumberBaseClass - Provided random Data
+20:28:07.254 [main] INFO  TestBase.CucumberBaseClass - Selected Institute Type
+20:28:08.059 [main] INFO  TestBase.CucumberBaseClass - Selected Job Role & Department
+20:28:08.359 [main] INFO  TestBase.CucumberBaseClass - Selected Need
+20:28:09.663 [main] INFO  TestBase.CucumberBaseClass - Selected Number Of Learners
+20:28:10.345 [main] INFO  TestBase.CucumberBaseClass - Selected Country and State
+20:28:10.445 [main] INFO  TestBase.CucumberBaseClass - Sucessfully Clicked on Submit Button
+20:28:11.090 [main] INFO  TestBase.CucumberBaseClass - got the Error Msg

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" preserve-order="true" parallel = "false">
+<listeners>
+<listener class-name="Util.ExtentReport"/>
+</listeners>
+<parameter name="browser" value="chrome"/>
+  <test thread-count="5" name="Test" preserve-order="true" parallel = "false">
+   <classes>
+    
+    <class name="TestCases.TC01_SearchCourse"/> 
+    <class name="TestCases.TC03_FormFilling"/>
+    
+   </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
